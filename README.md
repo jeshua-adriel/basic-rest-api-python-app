@@ -30,10 +30,11 @@ https://official-joke-api.appspot.com/random_joke
 python -m unittest test_app.py
 
 ## Team Members and Roles
-- Scrum Leader: [Name]
-- Recorder: [Name]
-- Developer: [Name]
-- Developer: [Name]
+- Scrum Leader: [Adriel Jeshua Luisaga]
+- Recorder: [Paul Gabriel Misagal]
+- Recorder: [Mark Gabriel Guballo]
+- Developer: [Anron James Dumaloan]
+- Developer: [Clark Kenneth Acosta]
 
 ## Contribution Summary
 Each member contributed through coding, documentation, testing, and GitHub collaboration.
