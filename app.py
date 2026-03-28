@@ -4,12 +4,6 @@ API_URL = "https://official-joke-api.appspot.com/random_joke"
 
 
 def get_joke():
-    """
-    Fetch a random joke from the public API.
-    Returns:
-        dict: joke data if successful
-        None: if request fails
-    """
     try:
         response = requests.get(API_URL, timeout=5)
         response.raise_for_status()
